@@ -1,2 +1,2 @@
 # csprojects
-Projects I've made for AP Computer Science
+Projects I've made for AP Computer Science.
