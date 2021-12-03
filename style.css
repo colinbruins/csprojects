@@ -49,3 +49,8 @@ header nav ul li {
 .clear{
   clear:both;
 }
+
+.project iframe{
+  float:left;
+  margin-right:10px;
+}
